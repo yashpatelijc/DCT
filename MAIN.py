@@ -10,7 +10,7 @@ st.set_page_config(page_title="Execution Ledger", layout="wide")
 
 # --- SUPABASE DATABASE CONNECTION ---
 URL = "https://voufmlkdfcfjypqhyuds.supabase.co"
-KEY = "sb_publishable_0BWSXn90j0lmrvhZrcDr6w_2EJcRyl5"
+KEY = "sb_secret_LQ7xY6QCjDhJdSfUNa9t2A_OpSCCULJ"
 
 @st.cache_resource
 def init_connection():
